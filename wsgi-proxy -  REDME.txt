@@ -1,0 +1,14 @@
+Project Name:		python wsgi proxy
+Project Purpose:	Education
+Project Supervisor:	Terence parr, USF Professor 
+Participants:		Ali Alnajjar USF MS Web Science Student
+Contact:			najjaray@gmail.com
+====================================================================================
+USAGE:
+to be able to use this code you need a to have:
+	(1) install wsgi http://www.wsgi.org/en/latest/index.html
+	(2) file should be placed in /usr/local/www/wsgi-scripts
+	(3) configure apache & wsgi to map file to /proxy using WSGIScriptAlias 
+	
+REQUIREMNT URL:
+	http://cs.usfca.edu/~parrt/course/680/projects-F11/proxy.html
